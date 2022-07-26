@@ -18,75 +18,13 @@ button {
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 5rem;
   color: #efefef;
+  margin-top: 55px;
 }
 
 .row {
   margin: 0;
-}
-
-/* navigation bar */
-.top {
-  margin-bottom: 30px;
-  padding: 60px 20% 30px;
-  font-family: 'Comfortaa', cursive;
-}
-
-.nav-title {
-  margin-bottom: 10px;
-}
-
-.navbar-brand {
-  font-size: 3.5rem;
-}
-
-@media (max-width: 712px) {
-  .navbar-brand {
-    font-size: 3rem;
-  }
-}
-
-@media (max-width: 633px) {
-  .navbar-brand {
-    font-size: 2.5rem;
-  }
-}
-
-.navbar-toggler {
-  vertical-align: 50%;
-}
-
-.nav-item {
-  border-left: 1px solid rgb(255, 255, 255, 0.6);
-  border-right: 1px solid rgb(255, 255, 255, 0.6);
-}
-
-.nav-link {
-  margin: auto 30px auto;
-  font-size: 1.4rem;
-  color: white;
-}
-
-.nav-link:hover {
-  color: white;
-  opacity: 0.75;
-}
-
-@media (max-width: 1473px) {
-  #navbarContent {
-    display: block;
-  }
-
-  .nav-item {
-    border: none;
-  }
-}
-
-.line {
-  margin: 30px auto 0;
-  border: none;
-  border-bottom: 1px solid rgb(255, 255, 255, 0.6);
 }
 
 /* main section */
