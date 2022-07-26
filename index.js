@@ -1,11 +1,6 @@
 // General Appearance
 $("button").css("outline", "none");
 
-$("#navbarContent").hide();
-$(".navbar-toggler").click(function() {
-  $("#navbarContent").slideToggle();
-});
-
 // Initial Variables
 var stringSet = [];
 var numString = "";
